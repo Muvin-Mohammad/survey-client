@@ -1,8 +1,6 @@
-#  SurveySeeker
-
 ## Introduction
 
-Welcome to SurveySeeker, a user-friendly survey platform designed to simplify the process of creating, distributing, and analyzing surveys. Whether you're conducting market research, gathering customer feedback, or organizing an event, SurveySeeker provides the tools you need to collect valuable insights effortlessly.
+Welcome to SurveySeeker website, a user-friendly survey platform designed to simplify the process of creating, distributing, and analyzing surveys. Whether you're conducting market research, gathering customer feedback, or organizing an event, SurveySeeker provides the tools you need to collect valuable insights effortlessly.
 
 ## Core Features
 
@@ -45,15 +43,11 @@ Welcome to SurveySeeker, a user-friendly survey platform designed to simplify th
 
 
 
-
-## Category : assignment_category 0020
-
 ## Website Name : SurveySeeker
 
 ##  admin username/email : aaa@cc.cc
 ##  admin password : 1234Aa
  
-
 
 # Website Link = https://survey-seeker.web.app/
 
